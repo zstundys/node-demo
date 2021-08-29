@@ -7,7 +7,7 @@ function calculateAge(dateOfBirthString) {
   return Math.floor(years);
 }
 
-function convertMillisecondsToYears(miliseconds) {
+function cvertMillisecondsToYears(miliseconds) {
   return miliseconds / 1000 / 60 / 60 / 24 / 365.25;
 }
 
